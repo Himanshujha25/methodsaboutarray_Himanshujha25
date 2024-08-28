@@ -1,0 +1,32 @@
+let arr=[1,2,3,4,5,7,8,9,6]
+//console.log(arr.length)
+//console.log(arr[4])
+//console.log(arr.at(1))
+//arr.push(15,4948,49,88,74,)
+//console.log(arr)
+//arr.pop(1)
+//console.log(arr)
+//arr.shift()
+//console.log(arr)
+//arr.unshift(100000,25)
+//console.log(arr)
+//console.log(arr.includes(1))
+//console.log(arr.indexOf(5))
+//console.log(arr.lastIndexOf(1))
+//let go=arr.join("/")
+//console.log(go)
+//console.log(typeof arr.toString())
+//another=[2,2,2,]
+//console.log(arr.concat(another))
+//arr.sort()
+//console.log(arr)
+//const gone=arr.map(value=> value*100)
+//console.log(gone)
+//const gon=arr.filter(value=> value >6)
+//console.log(gon)
+//const add=arr.reduce(sum)
+//function sum(accumulator,element){
+  //return accumulator*element}
+    //console.log(`$${add}`)
+    //now use all the funtion and learn about it so that you can learn about all array  method...
+// Before running the code revmove slash from the code ....
